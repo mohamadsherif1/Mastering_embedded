@@ -1,1 +1,1 @@
-# Mastering_embedded
+# Mastering_embedded_diploma
